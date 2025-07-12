@@ -1,0 +1,9 @@
+hugging_face
+transformers
+numpy
+pandas
+soundfile
+sentencepiece
+openai-whisper
+torchaudio
+ffmpeg-python
